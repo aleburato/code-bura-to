@@ -16,8 +16,8 @@ figure.entry-cover > p {
   padding: 1px 6px;
   font-size: 12px;
   position: absolute;
-  right: 24px;
-  bottom: 1px;
+  right: 32px;
+  bottom: 0;
 }
 
 figure.entry-cover img {
