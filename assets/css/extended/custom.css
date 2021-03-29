@@ -8,6 +8,10 @@ h6 {
   font-weight: 400;
 }
 
+article.post-single figure.entry-cover {
+    margin-bottom: 24px;
+}
+
 figure.entry-cover > p {
   display: block;
   background-color: rgba(0, 0, 0, 0.35);
