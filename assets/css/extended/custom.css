@@ -12,11 +12,12 @@ figure.entry-cover > p {
   display: block;
   background-color: rgba(0, 0, 0, 0.35);
   color: #ddd;
-  transform: translate(-28px, -100%);
   border-radius: 6px 6px 0 0;
   padding: 1px 6px;
-  float: right;
   font-size: 12px;
+  position: absolute;
+  right: 24px;
+  bottom: 1px;
 }
 
 figure.entry-cover img {
@@ -54,4 +55,8 @@ figure.entry-cover img {
 
 .post-content h6 {
   font-size: 12px;
+}
+
+figure {
+  position: relative;
 }
