@@ -1,0 +1,39 @@
+baseURL: https://code.bura.to
+languageCode: en-us
+title: code.bura.to
+theme: hugo-PaperMod
+
+params:
+    assets:
+        disableHLJS: true
+    homeInfoParams:
+        title: "Hi there 👋"
+        content: |
+            **Alessandro**, software engineer, dad, husband, runner. _Unlucky in cards_. Opinionated.
+
+            This is a first, sad excuse for a personal blog, and a way to experiment with [Hugo](https://gohugo.io/).
+
+            Here are my socials, just in case:
+
+    socialIcons:
+        - name: "facebook"
+          url: "https://www.facebook.com/aleburato"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/aleburato/"
+        - name: "twitter"
+          url: "https://twitter.com/ale_burato"
+        - name: github
+          url: "https://github.com/aleburato"
+        - name: RsS
+          url: "index.xml"
+
+markup:
+    highlight:
+        pygmentsUseClasses: true
+        noClasses: false
+        tabWidth: 4
+        anchorLineNos: false
+        codeFences: true
+        guessSyntax: false
+        lineNos: true
+        style: dracula

@@ -1,0 +1,57 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+figure.entry-cover > p {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.35);
+  color: #ddd;
+  transform: translate(-28px, -100%);
+  border-radius: 6px 6px 0 0;
+  padding: 1px 6px;
+  float: right;
+  font-size: 12px;
+}
+
+figure.entry-cover img {
+  border-radius: 32px 0 32px 0;
+}
+
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  margin: 24px 0 16px;
+}
+
+.post-content h1,
+.post-title {
+  font-size: 36px;
+}
+
+.post-content h2 {
+  margin: 32px auto 24px;
+  font-size: 28px;
+}
+
+.post-content h3 {
+  font-size: 22px;
+}
+
+.post-content h4 {
+  font-size: 16px;
+}
+
+.post-content h5 {
+  font-size: 14px;
+}
+
+.post-content h6 {
+  font-size: 12px;
+}
