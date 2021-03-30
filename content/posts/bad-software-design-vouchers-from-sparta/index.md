@@ -49,7 +49,7 @@ I really cannot understand why the payment system (or whatever you guys have in 
 
 ## The future?
 
-Let's try to rethink the UI and the information presented to the end user by solving their main problems: _"How many vouchers I have left?"_, _"Where did i spend my vouchers recenty?"_ and finally: _"What was the last refill from my employer?"_.
+Let's try to rethink the UI and the information presented to the end user by solving their main problems: _"How many vouchers have I left?"_, _"Where did I spend my vouchers recenty?"_ and also: _"How many vouchers am I getting from my employer?"_.
 
 To answer these simple questions, this is all the complexity we need (not an actual UI):
 
