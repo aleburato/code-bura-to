@@ -24,9 +24,17 @@ figure.entry-cover > figcaption {
   bottom: 0;
 }
 
-figure.entry-cover img {
+figure.entry-cover > img {
   border-radius: 32px 0 32px 0;
   background-size: cover;
+}
+
+figure.entry-cover > img.thumb + img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
 }
 
 .post-content h3,
