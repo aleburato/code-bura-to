@@ -1,0 +1,26 @@
+{
+  "name": "code-bura-to",
+  "version": "1.0.0",
+  "description": "My personal blog",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo --gc --cleanDestinationDir --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleburato/code-bura-to.git"
+  },
+  "keywords": [
+    "blog",
+    "personal",
+    "hugo",
+    "postcss"
+  ],
+  "author": "Alessandro Burato",
+  "license": "MIT",
+  "homepage": "https://github.com/aleburato/code-bura-to#readme",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "postcss-cli": "^8.3.1"
+  }
+}

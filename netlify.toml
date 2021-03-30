@@ -1,8 +1,9 @@
 [build]
 publish = "public"
-command = "hugo --gc --cleanDestinationDir --minify"
+command = "npm run build"
 
 [build.environment]
 HUGO_VERSION = "0.82.0"
 GO_VERSION = "1.16.2"
+NODE_VERSION = "14.16.0"
 HUGO_ENABLEGITINFO = "true"
