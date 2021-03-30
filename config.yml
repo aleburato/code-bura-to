@@ -9,6 +9,8 @@ build:
 params:
     assets:
         disableHLJS: true
+    showReadingTime: true
+    showShareButtons: true
     homeInfoParams:
         title: "Hi there 👋"
         content: |

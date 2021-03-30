@@ -39,7 +39,7 @@ Now. With all the possible good will, I simply cannot understand why this is nec
 
 _You are exposing me to the (questionable) implementation details of your software and, worst of all, burden me with "transfer" tasks that a hundred lines of well written code can (and must) handle automatically._
 
-## DB-centric, are we?
+## DB-centric, aren't we?
 
 This was a single online payment of 8 vouchers _(yay! "The Cloud"!)_ which for some reason shows up as 8 single payments, like when you had to snap each of them from the paper booklet and give each one to the cashier, after signing it.
 
