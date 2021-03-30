@@ -3,6 +3,9 @@ languageCode: en-us
 title: code.bura.to
 theme: hugo-PaperMod
 
+build:
+  writeStats: true
+
 params:
     assets:
         disableHLJS: true
