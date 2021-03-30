@@ -8,7 +8,7 @@ h6 {
   font-weight: 400;
 }
 
-figure.entry-cover > p {
+figure.entry-cover > figcaption {
   display: block;
   background-color: rgba(0, 0, 0, 0.35);
   color: #ddd;
