@@ -8,6 +8,10 @@ h6 {
   font-weight: 400;
 }
 
+article.post-single figure.entry-cover {
+  margin-bottom: 40px;
+}
+
 figure.entry-cover > figcaption {
   display: block;
   background-color: rgba(0, 0, 0, 0.35);
@@ -16,8 +20,8 @@ figure.entry-cover > figcaption {
   padding: 1px 6px;
   font-size: 12px;
   position: absolute;
-  right: 24px;
-  bottom: 1px;
+  right: 28px;
+  bottom: 0;
 }
 
 figure.entry-cover img {
