@@ -9,5 +9,6 @@
     "node_modules": true,
     "resources": true
   },
-  "explorerExclude.backup": null
+  "explorerExclude.backup": null,
+  "html.format.enable": false
 }
