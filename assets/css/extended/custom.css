@@ -26,6 +26,7 @@ figure.entry-cover > figcaption {
 
 figure.entry-cover img {
   border-radius: 32px 0 32px 0;
+  background-size: cover;
 }
 
 .post-content h3,
