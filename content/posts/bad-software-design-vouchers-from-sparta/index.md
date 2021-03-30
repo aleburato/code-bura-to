@@ -16,9 +16,9 @@ Today I'll tell you a story about _luncheon vouchers_.
 
 When dinosaurs (or better, _Cadillacs_) ruled the Earth, it was strictly a printed affair: you had your stack of vouchers, your employee handled you a new batch every month, and that was pretty much it. Easy, simple, tangible.
 
-Then of course we realized it was an inane amount of wasted paper and ink and started using electronic vouchers. My company moved to full e-vouchers during covid, and That's A Good Thing, folks.
-
 {{<figure caption="A really vintage voucher, from when Cadillacs ruled the Earth" src="img/vintage_voucher.jpg">}}
+
+Then of course we realized it was an inane amount of wasted paper and ink and started using electronic vouchers. My company moved to full e-vouchers during covid, and That's A Good Thing, folks.
 
 ## The Present
 
